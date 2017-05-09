@@ -1,0 +1,290 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1493235237726">
+  <folder name="css">
+    <file name="site_global.css" crc="4270108497"/>
+    <file name="master_a-master.css" crc="379623936" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
+    <file name="master_homepage.css" crc="292311321" ref="index"/>
+    <file name="about.css" crc="4050944990" ref="about"/>
+    <file name="iefonts_about.css" crc="79309572" ref="about"/>
+    <file name="umbrella-facade.css" crc="4203795164" ref="umbrella-facade"/>
+    <file name="iefonts_umbrella-facade.css" crc="3961581017" ref="umbrella-facade"/>
+    <file name="inflatable-pavilion.css" crc="177934477" ref="inflatable-pavilion"/>
+    <file name="iefonts_inflatable-pavilion.css" crc="4080904428" ref="inflatable-pavilion"/>
+    <file name="copenhagen.css" crc="4087351409" ref="copenhagen"/>
+    <file name="iefonts_copenhagen.css" crc="4202845712" ref="copenhagen"/>
+    <file name="weaving-architecture.css" crc="4040627951" ref="weaving-architecture"/>
+    <file name="iefonts_weaving-architecture.css" crc="3871598573" ref="weaving-architecture"/>
+    <file name="europan-13.css" crc="4014625249" ref="europan-13"/>
+    <file name="iefonts_europan-13.css" crc="4084751700" ref="europan-13"/>
+    <file name="zuzemberk-pavilion.css" crc="527330400" ref="zuzemberk-pavilion"/>
+    <file name="iefonts_zuzemberk-pavilion.css" crc="4009550951" ref="zuzemberk-pavilion"/>
+    <file name="rheinfelden.css" crc="519313654" ref="rheinfelden"/>
+    <file name="iefonts_rheinfelden.css" crc="325048309" ref="rheinfelden"/>
+    <file name="the-lanai.css" crc="3807454380" ref="the-lanai"/>
+    <file name="iefonts_the-lanai.css" crc="3830200830" ref="the-lanai"/>
+    <file name="taiwan-tower.css" crc="246342179" ref="taiwan-tower"/>
+    <file name="iefonts_taiwan-tower.css" crc="222868499" ref="taiwan-tower"/>
+    <file name="sola.css" crc="3855345723" ref="sola"/>
+    <file name="iefonts_sola.css" crc="4191622923" ref="sola"/>
+    <file name="ola-pavilion.css" crc="255937416" ref="ola-pavilion"/>
+    <file name="iefonts_ola-pavilion.css" crc="31721407" ref="ola-pavilion"/>
+    <file name="evolo.css" crc="207443243" ref="evolo"/>
+    <file name="iefonts_evolo.css" crc="311756002" ref="evolo"/>
+    <file name="dallas.css" crc="4032994645" ref="dallas"/>
+    <file name="iefonts_dallas.css" crc="503638407" ref="dallas"/>
+    <file name="adidas.css" crc="4232133701" ref="adidas"/>
+    <file name="iefonts_adidas.css" crc="428958588" ref="adidas"/>
+    <file name="lamborghini-gardens.css" crc="3770027216" ref="lamborghini-gardens"/>
+    <file name="iefonts_lamborghini-gardens.css" crc="4014764902" ref="lamborghini-gardens"/>
+    <file name="world-health-organization.css" crc="4204182605" ref="world-health-organization"/>
+    <file name="iefonts_world-health-organization.css" crc="4003248629" ref="world-health-organization"/>
+    <file name="index.css" crc="3951042302" ref="index"/>
+    <file name="iefonts_index.css" crc="3838111394" ref="index"/>
+    <file name="floating-passage.css" crc="179254889" ref="floating-passage"/>
+    <file name="iefonts_floating-passage.css" crc="511617274" ref="floating-passage"/>
+    <file name="cloud-market.css" crc="269052640" ref="cloud-market"/>
+    <file name="iefonts_cloud-market.css" crc="424694650" ref="cloud-market"/>
+  </folder>
+  <folder name="assets">
+    <file name="the-cloud-market.pdf" crc="289682242" seo="true" mt="1479479339000"/>
+    <file name="the-cloud-market2.pdf" crc="289682242" seo="true" mt="1479479339000"/>
+    <file name="a3-elevation-1-350.pdf" crc="3957956512" seo="true" mt="1490822039000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="museutils.js" crc="163421577" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="whatinput.js" crc="86476730" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="webpro.js" crc="3848665353" ref="about"/>
+    <file name="form_check.php" crc="158155501" ref="about"/>
+    <file name="form_throttle.php" crc="3992970984" ref="about"/>
+    <file name="form_process.php" crc="4078697226" ref="about"/>
+    <file name="form-u2397.php" crc="515933972" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="cover2 - light.jpg" crc="4055961590" seo="true" ref="europan-13"/>
+    <file name="00a - lund residential landuse - scale3-crop-u197.jpg" crc="4209732058" ref="europan-13"/>
+    <file name="00b - lund roads - scale3-crop-u203.jpg" crc="4037520926" ref="europan-13"/>
+    <file name="00c - character scale 5_____a-crop-u236.jpg" crc="378259251" ref="europan-13"/>
+    <file name="00c2 - klostergarden new areas scale2 - crop.jpg" crc="241245019" seo="true" ref="europan-13"/>
+    <file name="00c2 - klostergarden new areas scale2 - legend.jpg" crc="3864038357" seo="true" ref="europan-13"/>
+    <file name="00c - character scale 5-crop.jpg" crc="208553" seo="true" ref="europan-13"/>
+    <file name="00d - lund klostergarden comparation -scale 3-crop-u265.jpg" crc="4227833223" ref="europan-13"/>
+    <file name="00e ns -diag - scale 3_crop.jpg" crc="3811697802" seo="true" ref="europan-13"/>
+    <file name="00e ns -diag - scale 3_crop2.jpg" crc="4277576043" seo="true" ref="europan-13"/>
+    <file name="extroverted diag-crop-u286.jpg" crc="3820041574" ref="europan-13"/>
+    <file name="07 - detail view over central area-crop-u292.jpg" crc="77290122" ref="europan-13"/>
+    <file name="cluster 1 - scale 2-crop-u302.jpg" crc="147166675" ref="europan-13"/>
+    <file name="cluster 2 - scale 2-crop-u308.jpg" crc="3815532527" ref="europan-13"/>
+    <file name="apartment types-crop-u314.jpg" crc="483765013" ref="europan-13"/>
+    <file name="yellw and green - s.jpg" crc="491915523" seo="true" ref="europan-13"/>
+    <file name="lower activity - s.jpg" crc="4106396471" seo="true" ref="europan-13"/>
+    <file name="masterplan.jpg" crc="400691593" seo="true" ref="europan-13"/>
+    <file name="r - view1.jpg" crc="17465683" seo="true" ref="sola"/>
+    <file name="d - bird view axo.jpg" crc="4027531589" seo="true" ref="sola"/>
+    <file name="r - view2 courtyard.jpg" crc="3974714193" seo="true" ref="sola"/>
+    <file name="bim.jpg" crc="62994788" seo="true" ref="sola"/>
+    <file name="s - section2-crop-u609.jpg" crc="4066691071" ref="sola"/>
+    <file name="p - 000.jpg" crc="4246136064" seo="true" ref="sola"/>
+    <file name="p -330.jpg" crc="3858577379" seo="true" ref="sola"/>
+    <file name="p -660.jpg" crc="329194185" seo="true" ref="sola"/>
+    <file name="p -990.jpg" crc="245588729" seo="true" ref="sola"/>
+    <file name="p -1320.jpg" crc="396167439" seo="true" ref="sola"/>
+    <file name="detail 1 to 25 a3.jpg" crc="328312240" seo="true" ref="sola"/>
+    <file name="01 main render final second cut.jpg" crc="8519691" seo="true" ref="dallas"/>
+    <file name="02 masterplan 2.jpg" crc="534677837" seo="true" ref="dallas"/>
+    <file name="04 downtown.jpg" crc="255495957" seo="true" ref="dallas"/>
+    <file name="05 render 3 square park-recovered.jpg" crc="34063418" seo="true" ref="dallas"/>
+    <file name="03 detail master_ final_ cu vedere.jpg" crc="428519844" seo="true" ref="dallas"/>
+    <file name="d - 07 expanding the urban fabric (whihc is characteristic) and reshape some existent plots.jpg" crc="4162340657" seo="true" ref="dallas"/>
+    <file name="d - 06 irrigation system.jpg" crc="3862327854" seo="true" ref="dallas"/>
+    <file name="d - 12 - high line following the silhoulette of the downtown.jpg" crc="3878713789" seo="true" ref="dallas"/>
+    <file name="d - 15 - all volumes.jpg" crc="429732020" seo="true" ref="dallas"/>
+    <file name="05a - between towers no ppl.jpg" crc="3787700489" seo="true" ref="dallas"/>
+    <file name="06 render 01.jpg" crc="315291630" seo="true" ref="dallas"/>
+    <file name="02a - masterplan legend - pie.jpg" crc="166167545" seo="true" ref="dallas"/>
+    <file name="02a - masterplan legend - txt.jpg" crc="3990517182" seo="true" ref="dallas"/>
+    <file name="lateral collage.jpg" crc="4125412544" seo="true" ref="copenhagen"/>
+    <file name="fff - lobby - p.jpg" crc="323029272" seo="true" ref="copenhagen"/>
+    <file name="main no facade------pppp-crop-u868.jpg" crc="20127336" ref="copenhagen"/>
+    <file name="diagram-crop-u874.jpg" crc="505710931" ref="copenhagen"/>
+    <file name="wire int.jpg" crc="3968563607" seo="true" ref="copenhagen"/>
+    <file name="transversal section-crop-u887.jpg" crc="82847691" ref="copenhagen"/>
+    <file name="street level-crop-u896.jpg" crc="4236476602" ref="copenhagen"/>
+    <file name="top level-crop-u902.jpg" crc="3937401790" ref="copenhagen"/>
+    <file name="long section-crop-u908.jpg" crc="3925324286" ref="copenhagen"/>
+    <file name="fff - int - p3a.jpg" crc="290387168" seo="true" ref="copenhagen"/>
+    <file name="p05-01 aa-crop-u964.jpg" crc="3981906405" ref="rheinfelden"/>
+    <file name="masterplan2.jpg" crc="3813462462" seo="true" ref="rheinfelden"/>
+    <file name="rs white.jpg" crc="188133651" seo="true" ref="rheinfelden"/>
+    <file name="section.jpg" crc="262514881" seo="true" ref="rheinfelden"/>
+    <file name="schema 3d.jpg" crc="3867466919" seo="true" ref="rheinfelden"/>
+    <file name="adidas wire-crop-u1022.jpg" crc="94605272" ref="adidas"/>
+    <file name="adidas functions.jpg" crc="4189991000" seo="true" ref="adidas"/>
+    <file name="adidias 08 - ramp diag 2-crop-u1040.jpg" crc="4119965305" ref="adidas"/>
+    <file name="adidas 07 - building diag.jpg" crc="456666740" seo="true" ref="adidas"/>
+    <file name="adidas 04 - plan rdc.jpg" crc="215142086" seo="true" ref="adidas"/>
+    <file name="adidas 05 - plan 4.jpg" crc="3808078715" seo="true" ref="adidas"/>
+    <file name="int wire - small.jpg" crc="342832499" seo="true" ref="adidas"/>
+    <file name="details developed-crop-u1067.jpg" crc="517435632" ref="adidas"/>
+    <file name="wirefire13.jpg" crc="242061523" seo="true" ref="floating-passage"/>
+    <file name="01 concept-crop-u1115.jpg" crc="197856861" ref="floating-passage"/>
+    <file name="02 - site-crop-u1127.jpg" crc="4121408908" ref="floating-passage"/>
+    <file name="03 - main render.jpg" crc="188868022" seo="true" ref="floating-passage"/>
+    <file name="04 - interior.jpg" crc="3774042506" seo="true" ref="floating-passage"/>
+    <file name="components -add arrows, explain process-crop-u1147.jpg" crc="4166731824" ref="floating-passage"/>
+    <file name="06 - section.jpg" crc="4102342979" seo="true" ref="floating-passage"/>
+    <file name="05 - night_cropped.jpg" crc="11964561" seo="true" ref="floating-passage"/>
+    <file name="1cover-crop-u1204.jpg" crc="4183719419" ref="weaving-architecture"/>
+    <file name="3simple compnenet.jpg" crc="4088825175" seo="true" ref="weaving-architecture"/>
+    <file name="4component view.jpg" crc="507097717" seo="true" ref="weaving-architecture"/>
+    <file name="6process.jpg" crc="4234103848" seo="true" ref="weaving-architecture"/>
+    <file name="7process.jpg" crc="167975175" seo="true" ref="weaving-architecture"/>
+    <file name="8process.jpg" crc="3829036538" seo="true" ref="weaving-architecture"/>
+    <file name="9process.jpg" crc="4148740173" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages.jpg" crc="4194511157" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages 2.jpg" crc="256986414" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages 4.jpg" crc="326550280" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages 5.jpg" crc="3815461711" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages 6.jpg" crc="428583330" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 2 - all pages 7-crop-u1281.jpg" crc="4249330532" ref="weaving-architecture"/>
+    <file name="gh1.gif" crc="3761992384" seo="true" ref="weaving-architecture"/>
+    <file name="gh2.gif" crc="3844855647" seo="true" ref="weaving-architecture"/>
+    <file name="gh3.png" crc="32653309" seo="true" ref="weaving-architecture"/>
+    <file name="gh4.gif" crc="30053519" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 3 - all pages 3.jpg" crc="4158270171" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 3 - all pages 4-crop-u1320.jpg" crc="61977648" ref="weaving-architecture"/>
+    <file name="workshop 3 - all pages 5.jpg" crc="213391478" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 3 - all pages.jpg" crc="3758243950" seo="true" ref="weaving-architecture"/>
+    <file name="workshop 3 - all pages 6.jpg" crc="3905277894" seo="true" ref="weaving-architecture"/>
+    <file name="the wave - bogdan chipara - press020614-11-crop-u1432.jpg" crc="3971870201" ref="ola-pavilion"/>
+    <file name="the wave - bogdan chipara - press020614-8.jpg" crc="480455997" seo="true" ref="ola-pavilion"/>
+    <file name="b - plan general-crop-u1444.jpg" crc="3894577702" ref="ola-pavilion"/>
+    <file name="a - main.jpg" crc="475893060" seo="true" ref="ola-pavilion"/>
+    <file name="spatial diagram.jpg" crc="137545405" seo="true" ref="ola-pavilion"/>
+    <file name="s - scheme plan.jpg" crc="4099041542" seo="true" ref="ola-pavilion"/>
+    <file name="occupy.jpg" crc="169924140" seo="true" ref="ola-pavilion"/>
+    <file name="the wave - bogdan chipara - press020614-10.jpg" crc="513578754" seo="true" ref="ola-pavilion"/>
+    <file name="wire view.jpg" crc="3777893526" seo="true" ref="ola-pavilion"/>
+    <file name="interior wire.jpg" crc="3770015336" seo="true" ref="world-health-organization"/>
+    <file name="fp.jpg" crc="3946753405" seo="true" ref="world-health-organization"/>
+    <file name="fp2.jpg" crc="4217345049" seo="true" ref="world-health-organization"/>
+    <file name="p02-01.jpg" crc="474078738" seo="true" ref="world-health-organization"/>
+    <file name="program distribution.jpg" crc="4088213236" seo="true" ref="world-health-organization"/>
+    <file name="ext white.jpg" crc="480893679" seo="true" ref="world-health-organization"/>
+    <file name="01 - crop.jpg" crc="4051960377" seo="true" ref="inflatable-pavilion"/>
+    <file name="7176350820_a9ff2c68ab_o.jpg" crc="4242119472" seo="true" ref="inflatable-pavilion"/>
+    <file name="04 - crop.jpg" crc="3983604697" seo="true" ref="inflatable-pavilion"/>
+    <file name="02bw.jpg" crc="3855074703" seo="true" ref="inflatable-pavilion"/>
+    <file name="03-crop-u1626.jpg" crc="66092112" ref="inflatable-pavilion"/>
+    <file name="components - small.jpg" crc="4025721812" seo="true" ref="inflatable-pavilion"/>
+    <file name="last page render-crop-u1667.jpg" crc="4184396607" ref="umbrella-facade"/>
+    <file name="01 - umbrellachina-crop-u1673.jpg" crc="4033628293" ref="umbrella-facade"/>
+    <file name="01 - umbrellachina-crop-u1679.jpg" crc="273150763" ref="umbrella-facade"/>
+    <file name="facade.jpg" crc="86684022" seo="true" ref="umbrella-facade"/>
+    <file name="wave3 - sq501x501.jpg" crc="413472204" seo="true" ref="umbrella-facade"/>
+    <file name="a01a.jpg" crc="4106896991" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="sec.jpg" crc="3831492845" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="diag3.jpg" crc="107773120" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="diag5.jpg" crc="81386913" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="diag2.jpg" crc="271406650" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="diag4.jpg" crc="7568186" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="cnc diag.jpg" crc="502075614" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="det1.jpg" crc="3947897203" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="cut2.jpg" crc="383505018" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="det2.jpg" crc="385487894" seo="true" ref="zuzemberk-pavilion"/>
+    <file name="wire-crop-u1841.jpg" crc="4279625485" ref="taiwan-tower"/>
+    <file name="23 - simulators.jpg" crc="91306868" seo="true" ref="taiwan-tower"/>
+    <file name="25 - migratia.jpg" crc="4006292744" seo="true" ref="taiwan-tower"/>
+    <file name="21 - open source.jpg" crc="483018656" seo="true" ref="taiwan-tower"/>
+    <file name="26 -workshop.jpg" crc="4080007786" seo="true" ref="taiwan-tower"/>
+    <file name="night view.jpg" crc="3916314918" seo="true" ref="taiwan-tower"/>
+    <file name="section2.jpg" crc="3963223968" seo="true" ref="taiwan-tower"/>
+    <file name="museum.jpg" crc="3918467452" seo="true" ref="taiwan-tower"/>
+    <file name="program distribution2.jpg" crc="331760750" seo="true" ref="taiwan-tower"/>
+    <file name="museum section.jpg" crc="3942149551" seo="true" ref="taiwan-tower"/>
+    <file name="central node.jpg" crc="57092" seo="true" ref="taiwan-tower"/>
+    <file name="struct principles.jpg" crc="227643118" seo="true" ref="taiwan-tower"/>
+    <file name="office spaces.jpg" crc="3847824255" seo="true" ref="taiwan-tower"/>
+    <file name="floating observatory.jpg" crc="3859098450" seo="true" ref="taiwan-tower"/>
+    <file name="elevation powerplant.png" crc="93761409" seo="true" ref="evolo"/>
+    <file name="main render1024x513.jpg" crc="3789806643" seo="true" ref="evolo"/>
+    <file name="diagrams.gif" crc="4181559868" seo="true" ref="evolo"/>
+    <file name="top view crop.jpg" crc="129272095" seo="true" ref="evolo"/>
+    <file name="bogdan chipara.jpg" crc="283858183" seo="true" ref="about"/>
+    <file name="interior-crop-u4515.jpg" crc="4196591651" ref="index"/>
+    <file name="lamborghini.jpg" crc="3784674280" seo="true" ref="index"/>
+    <file name="the cloud.jpg" crc="3791877123" seo="true" ref="index"/>
+    <file name="floating passage.jpg" crc="4237164718" seo="true" ref="index"/>
+    <file name="dallas cover3.jpg" crc="3836603662" seo="true" ref="index"/>
+    <file name="cover2 - light-crop-u2288.jpg" crc="3973701621" ref="index"/>
+    <file name="workshop 3 - all pages-crop-u2330.jpg" crc="50327356" ref="index"/>
+    <file name="rhs.jpg" crc="277189423" seo="true" ref="index"/>
+    <file name="lateral collage-crop-u2306.jpg" crc="464122315" ref="index"/>
+    <file name="r - view2 courtyard-crop-u2294.jpg" crc="327368118" ref="index"/>
+    <file name="int wire - small-crop-u2318.jpg" crc="446410139" ref="index"/>
+    <file name="a - main-crop-u2336.jpg" crc="302434446" ref="index"/>
+    <file name="interior wire-crop-u2342.jpg" crc="4065084407" ref="index"/>
+    <file name="wave3 - sq-crop-u2354.jpg" crc="480706016" ref="index"/>
+    <file name="7176350820_a9ff2c68ab_o-crop-u2348.jpg" crc="175968245" ref="index"/>
+    <file name="diag5-crop-u2357.jpg" crc="520182423" ref="index"/>
+    <file name="23 - simulators334x374.jpg" crc="3879105872" seo="true" ref="index"/>
+    <file name="main render-crop-u2371.jpg" crc="4010991333" ref="index"/>
+    <file name="_1a-crop-u3288.jpg" crc="4116238668" ref="lamborghini-gardens"/>
+    <file name="_2.jpg" crc="494202888" seo="true" ref="lamborghini-gardens"/>
+    <file name="_03.jpg" crc="29060575" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 01 - plan.gif" crc="4283103577" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 02 - structure.gif" crc="222479961" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 03 - structure.gif" crc="3846561081" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 04 - vegetal wall box.gif" crc="3806741268" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 05 - elevation.gif" crc="243526457" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 06 - plant distribution.gif" crc="200820226" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 07 - section.gif" crc="3799390613" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 08 - wall detail.gif" crc="3994406830" seo="true" ref="lamborghini-gardens"/>
+    <file name="lamborghini 09 - wall detail.gif" crc="44631774" seo="true" ref="lamborghini-gardens"/>
+    <file name="elevation-banner.gif" crc="188046784" seo="true" ref="cloud-market"/>
+    <file name="01.jpg" crc="379902588" seo="true" ref="cloud-market"/>
+    <file name="2-crop-u3921.jpg" crc="229571027" ref="cloud-market"/>
+    <file name="concept model.jpg" crc="469718474" seo="true" ref="cloud-market"/>
+    <file name="4.svg" crc="520028574" seo="true" ref="cloud-market"/>
+    <file name="4_poster_.png" crc="386196484" ref="cloud-market"/>
+    <file name="plans-and-elevations.svg" crc="3992968397" seo="true" ref="cloud-market"/>
+    <file name="plans and elevations_poster_.png" crc="203296055" ref="cloud-market"/>
+    <file name="the-cloud-market-siteplan.gif" crc="185164805" seo="true" ref="cloud-market"/>
+    <file name="the-cloud-market-floorplan.gif" crc="4148645274" seo="true" ref="cloud-market"/>
+    <file name="cloudmarket interior floorplan.gif" crc="3849560115" seo="true" ref="cloud-market"/>
+    <file name="cloudmarket insertion.gif" crc="4081910705" seo="true" ref="cloud-market"/>
+    <file name="170321 bird view mirrored with water.jpg" crc="209972331" seo="true" ref="the-lanai"/>
+    <file name="interior.jpg" crc="156192487" seo="true" ref="the-lanai"/>
+    <file name="a3-1-350-nolegend.svg" crc="4145982932" seo="true" ref="the-lanai"/>
+    <file name="a3 1-350 nolegend_poster_.png" crc="4238954481" ref="the-lanai"/>
+    <file name="a3-site-1-5000-crop.svg" crc="188186032" seo="true" ref="the-lanai"/>
+    <file name="a3 site 1-5000-crop_poster_.png" crc="308887695" ref="the-lanai"/>
+    <file name="a3-elevation-1-350.svg" crc="83044560" seo="true" ref="the-lanai"/>
+    <file name="a3 elevation 1-350_poster_.png" crc="75930705" ref="the-lanai"/>
+    <file name="170318 corner view3.jpg" crc="162117471" seo="true" ref="the-lanai"/>
+    <file name="exploded-diagram.svg" crc="4279713259" seo="true" ref="the-lanai"/>
+    <file name="exploded diagram_poster_.png" crc="3867735472" ref="the-lanai"/>
+  </folder>
+  <file name="europan-13.html" crc="3995875196" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="sola.html" crc="4050713923" seo="true" mt="1493234459129" redirect="true"/>
+  <file name="dallas.html" crc="3760199500" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="copenhagen.html" crc="223156113" seo="true" mt="1493234501878" redirect="true"/>
+  <file name="rheinfelden.html" crc="506729512" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="adidas.html" crc="4082315779" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="floating-passage.html" crc="84472374" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="weaving-architecture.html" crc="31302574" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="ola-pavilion.html" crc="15711145" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="world-health-organization.html" crc="536087316" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="inflatable-pavilion.html" crc="268603132" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="umbrella-facade.html" crc="346267456" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="zuzemberk-pavilion.html" crc="3758354856" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="taiwan-tower.html" crc="3759743121" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="evolo.html" crc="3795928437" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="about.html" crc="462764880" seo="true" mt="1493234674926" redirect="true"/>
+  <file name="index.html" crc="3935396846" seo="true" mt="1493235154526" redirect="true"/>
+  <file name="lamborghini-gardens.html" crc="408332124" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="cloud-market.html" crc="4037087649" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="the-lanai.html" crc="84922724" seo="true" mt="1493233634115" redirect="true"/>
+</manifest>
