@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1493235237726">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1494356745321">
   <folder name="css">
     <file name="site_global.css" crc="4270108497"/>
-    <file name="master_a-master.css" crc="379623936" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
+    <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
     <file name="master_homepage.css" crc="292311321" ref="index"/>
     <file name="about.css" crc="4050944990" ref="about"/>
     <file name="iefonts_about.css" crc="79309572" ref="about"/>
@@ -33,7 +33,7 @@
     <file name="iefonts_dallas.css" crc="503638407" ref="dallas"/>
     <file name="adidas.css" crc="4232133701" ref="adidas"/>
     <file name="iefonts_adidas.css" crc="428958588" ref="adidas"/>
-    <file name="lamborghini-gardens.css" crc="3770027216" ref="lamborghini-gardens"/>
+    <file name="lamborghini-gardens.css" crc="4289595747" ref="lamborghini-gardens"/>
     <file name="iefonts_lamborghini-gardens.css" crc="4014764902" ref="lamborghini-gardens"/>
     <file name="world-health-organization.css" crc="4204182605" ref="world-health-organization"/>
     <file name="iefonts_world-health-organization.css" crc="4003248629" ref="world-health-organization"/>
@@ -231,9 +231,6 @@
     <file name="diag5-crop-u2357.jpg" crc="520182423" ref="index"/>
     <file name="23 - simulators334x374.jpg" crc="3879105872" seo="true" ref="index"/>
     <file name="main render-crop-u2371.jpg" crc="4010991333" ref="index"/>
-    <file name="_1a-crop-u3288.jpg" crc="4116238668" ref="lamborghini-gardens"/>
-    <file name="_2.jpg" crc="494202888" seo="true" ref="lamborghini-gardens"/>
-    <file name="_03.jpg" crc="29060575" seo="true" ref="lamborghini-gardens"/>
     <file name="lamborghini 01 - plan.gif" crc="4283103577" seo="true" ref="lamborghini-gardens"/>
     <file name="lamborghini 02 - structure.gif" crc="222479961" seo="true" ref="lamborghini-gardens"/>
     <file name="lamborghini 03 - structure.gif" crc="3846561081" seo="true" ref="lamborghini-gardens"/>
@@ -266,6 +263,9 @@
     <file name="170318 corner view3.jpg" crc="162117471" seo="true" ref="the-lanai"/>
     <file name="exploded-diagram.svg" crc="4279713259" seo="true" ref="the-lanai"/>
     <file name="exploded diagram_poster_.png" crc="3867735472" ref="the-lanai"/>
+    <file name="01a-crop-u3288.jpg" crc="4116238668" ref="lamborghini-gardens"/>
+    <file name="02.jpg" crc="494202888" seo="true" ref="lamborghini-gardens"/>
+    <file name="03.jpg" crc="29060575" seo="true" ref="lamborghini-gardens"/>
   </folder>
   <file name="europan-13.html" crc="3995875196" seo="true" mt="1493233634115" redirect="true"/>
   <file name="sola.html" crc="4050713923" seo="true" mt="1493234459129" redirect="true"/>
@@ -284,7 +284,7 @@
   <file name="evolo.html" crc="3795928437" seo="true" mt="1493233634115" redirect="true"/>
   <file name="about.html" crc="462764880" seo="true" mt="1493234674926" redirect="true"/>
   <file name="index.html" crc="3935396846" seo="true" mt="1493235154526" redirect="true"/>
-  <file name="lamborghini-gardens.html" crc="408332124" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="lamborghini-gardens.html" crc="177893452" seo="true" mt="1494356695066" redirect="true"/>
   <file name="cloud-market.html" crc="4037087649" seo="true" mt="1493233634115" redirect="true"/>
   <file name="the-lanai.html" crc="84922724" seo="true" mt="1493233634115" redirect="true"/>
 </manifest>
