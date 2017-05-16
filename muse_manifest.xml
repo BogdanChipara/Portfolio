@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1494356745321">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1494973283954">
   <folder name="css">
     <file name="site_global.css" crc="4270108497"/>
     <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
     <file name="master_homepage.css" crc="292311321" ref="index"/>
-    <file name="about.css" crc="4050944990" ref="about"/>
-    <file name="iefonts_about.css" crc="79309572" ref="about"/>
+    <file name="about.css" crc="3897137461" ref="about"/>
+    <file name="iefonts_about.css" crc="236644462" ref="about"/>
     <file name="umbrella-facade.css" crc="4203795164" ref="umbrella-facade"/>
     <file name="iefonts_umbrella-facade.css" crc="3961581017" ref="umbrella-facade"/>
     <file name="inflatable-pavilion.css" crc="177934477" ref="inflatable-pavilion"/>
@@ -46,7 +46,6 @@
   </folder>
   <folder name="assets">
     <file name="the-cloud-market.pdf" crc="289682242" seo="true" mt="1479479339000"/>
-    <file name="the-cloud-market2.pdf" crc="289682242" seo="true" mt="1479479339000"/>
     <file name="a3-elevation-1-350.pdf" crc="3957956512" seo="true" mt="1490822039000"/>
   </folder>
   <folder name="scripts">
@@ -56,11 +55,6 @@
     <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
     <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
     <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="webpro.js" crc="3848665353" ref="about"/>
-    <file name="form_check.php" crc="158155501" ref="about"/>
-    <file name="form_throttle.php" crc="3992970984" ref="about"/>
-    <file name="form_process.php" crc="4078697226" ref="about"/>
-    <file name="form-u2397.php" crc="515933972" ref="about"/>
   </folder>
   <folder name="images">
     <file name="cover2 - light.jpg" crc="4055961590" seo="true" ref="europan-13"/>
@@ -212,7 +206,7 @@
     <file name="main render1024x513.jpg" crc="3789806643" seo="true" ref="evolo"/>
     <file name="diagrams.gif" crc="4181559868" seo="true" ref="evolo"/>
     <file name="top view crop.jpg" crc="129272095" seo="true" ref="evolo"/>
-    <file name="bogdan chipara.jpg" crc="283858183" seo="true" ref="about"/>
+    <file name="bogdan chipara.jpg" crc="3899218079" seo="true" ref="about"/>
     <file name="interior-crop-u4515.jpg" crc="4196591651" ref="index"/>
     <file name="lamborghini.jpg" crc="3784674280" seo="true" ref="index"/>
     <file name="the cloud.jpg" crc="3791877123" seo="true" ref="index"/>
@@ -282,7 +276,7 @@
   <file name="zuzemberk-pavilion.html" crc="3758354856" seo="true" mt="1493233634115" redirect="true"/>
   <file name="taiwan-tower.html" crc="3759743121" seo="true" mt="1493233634115" redirect="true"/>
   <file name="evolo.html" crc="3795928437" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="about.html" crc="462764880" seo="true" mt="1493234674926" redirect="true"/>
+  <file name="about.html" crc="4062281907" seo="true" mt="1494973031091" redirect="true"/>
   <file name="index.html" crc="3935396846" seo="true" mt="1493235154526" redirect="true"/>
   <file name="lamborghini-gardens.html" crc="177893452" seo="true" mt="1494356695066" redirect="true"/>
   <file name="cloud-market.html" crc="4037087649" seo="true" mt="1493233634115" redirect="true"/>
