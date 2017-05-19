@@ -1,47 +1,47 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1494973283954">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1495228780603">
   <folder name="css">
-    <file name="site_global.css" crc="4270108497"/>
+    <file name="site_global.css" crc="411649291"/>
     <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
     <file name="master_homepage.css" crc="292311321" ref="index"/>
     <file name="about.css" crc="3897137461" ref="about"/>
     <file name="iefonts_about.css" crc="236644462" ref="about"/>
-    <file name="umbrella-facade.css" crc="4203795164" ref="umbrella-facade"/>
+    <file name="umbrella-facade.css" crc="338509628" ref="umbrella-facade"/>
     <file name="iefonts_umbrella-facade.css" crc="3961581017" ref="umbrella-facade"/>
-    <file name="inflatable-pavilion.css" crc="177934477" ref="inflatable-pavilion"/>
+    <file name="inflatable-pavilion.css" crc="3905584803" ref="inflatable-pavilion"/>
     <file name="iefonts_inflatable-pavilion.css" crc="4080904428" ref="inflatable-pavilion"/>
-    <file name="copenhagen.css" crc="4087351409" ref="copenhagen"/>
-    <file name="iefonts_copenhagen.css" crc="4202845712" ref="copenhagen"/>
-    <file name="weaving-architecture.css" crc="4040627951" ref="weaving-architecture"/>
-    <file name="iefonts_weaving-architecture.css" crc="3871598573" ref="weaving-architecture"/>
-    <file name="europan-13.css" crc="4014625249" ref="europan-13"/>
-    <file name="iefonts_europan-13.css" crc="4084751700" ref="europan-13"/>
-    <file name="zuzemberk-pavilion.css" crc="527330400" ref="zuzemberk-pavilion"/>
-    <file name="iefonts_zuzemberk-pavilion.css" crc="4009550951" ref="zuzemberk-pavilion"/>
-    <file name="rheinfelden.css" crc="519313654" ref="rheinfelden"/>
-    <file name="iefonts_rheinfelden.css" crc="325048309" ref="rheinfelden"/>
-    <file name="the-lanai.css" crc="3807454380" ref="the-lanai"/>
-    <file name="iefonts_the-lanai.css" crc="3830200830" ref="the-lanai"/>
-    <file name="taiwan-tower.css" crc="246342179" ref="taiwan-tower"/>
-    <file name="iefonts_taiwan-tower.css" crc="222868499" ref="taiwan-tower"/>
-    <file name="sola.css" crc="3855345723" ref="sola"/>
-    <file name="iefonts_sola.css" crc="4191622923" ref="sola"/>
-    <file name="ola-pavilion.css" crc="255937416" ref="ola-pavilion"/>
-    <file name="iefonts_ola-pavilion.css" crc="31721407" ref="ola-pavilion"/>
-    <file name="evolo.css" crc="207443243" ref="evolo"/>
-    <file name="iefonts_evolo.css" crc="311756002" ref="evolo"/>
-    <file name="dallas.css" crc="4032994645" ref="dallas"/>
-    <file name="iefonts_dallas.css" crc="503638407" ref="dallas"/>
-    <file name="adidas.css" crc="4232133701" ref="adidas"/>
-    <file name="iefonts_adidas.css" crc="428958588" ref="adidas"/>
+    <file name="copenhagen.css" crc="4112413399" ref="copenhagen"/>
+    <file name="iefonts_copenhagen.css" crc="4169009578" ref="copenhagen"/>
+    <file name="weaving-architecture.css" crc="133318350" ref="weaving-architecture"/>
+    <file name="iefonts_weaving-architecture.css" crc="3766627648" ref="weaving-architecture"/>
+    <file name="europan-13.css" crc="3832038606" ref="europan-13"/>
+    <file name="iefonts_europan-13.css" crc="128027276" ref="europan-13"/>
+    <file name="zuzemberk-pavilion.css" crc="3848227034" ref="zuzemberk-pavilion"/>
+    <file name="iefonts_zuzemberk-pavilion.css" crc="166801320" ref="zuzemberk-pavilion"/>
+    <file name="rheinfelden.css" crc="118015808" ref="rheinfelden"/>
+    <file name="iefonts_rheinfelden.css" crc="3811118748" ref="rheinfelden"/>
+    <file name="the-lanai.css" crc="294360685" ref="the-lanai"/>
+    <file name="iefonts_the-lanai.css" crc="469461200" ref="the-lanai"/>
+    <file name="taiwan-tower.css" crc="275885143" ref="taiwan-tower"/>
+    <file name="iefonts_taiwan-tower.css" crc="424582048" ref="taiwan-tower"/>
+    <file name="sola.css" crc="4226154877" ref="sola"/>
+    <file name="iefonts_sola.css" crc="43501318" ref="sola"/>
+    <file name="ola-pavilion.css" crc="4064109665" ref="ola-pavilion"/>
+    <file name="iefonts_ola-pavilion.css" crc="4249731691" ref="ola-pavilion"/>
+    <file name="evolo.css" crc="264029106" ref="evolo"/>
+    <file name="iefonts_evolo.css" crc="311154825" ref="evolo"/>
+    <file name="dallas.css" crc="4089132679" ref="dallas"/>
+    <file name="iefonts_dallas.css" crc="4221114464" ref="dallas"/>
+    <file name="adidas.css" crc="3886985976" ref="adidas"/>
+    <file name="iefonts_adidas.css" crc="302891805" ref="adidas"/>
     <file name="lamborghini-gardens.css" crc="4289595747" ref="lamborghini-gardens"/>
     <file name="iefonts_lamborghini-gardens.css" crc="4014764902" ref="lamborghini-gardens"/>
-    <file name="world-health-organization.css" crc="4204182605" ref="world-health-organization"/>
-    <file name="iefonts_world-health-organization.css" crc="4003248629" ref="world-health-organization"/>
+    <file name="world-health-organization.css" crc="348317333" ref="world-health-organization"/>
+    <file name="iefonts_world-health-organization.css" crc="4001523102" ref="world-health-organization"/>
     <file name="index.css" crc="3951042302" ref="index"/>
     <file name="iefonts_index.css" crc="3838111394" ref="index"/>
-    <file name="floating-passage.css" crc="179254889" ref="floating-passage"/>
-    <file name="iefonts_floating-passage.css" crc="511617274" ref="floating-passage"/>
-    <file name="cloud-market.css" crc="269052640" ref="cloud-market"/>
+    <file name="floating-passage.css" crc="3959411895" ref="floating-passage"/>
+    <file name="iefonts_floating-passage.css" crc="387486104" ref="floating-passage"/>
+    <file name="cloud-market.css" crc="4171187104" ref="cloud-market"/>
     <file name="iefonts_cloud-market.css" crc="424694650" ref="cloud-market"/>
   </folder>
   <folder name="assets">
@@ -261,24 +261,24 @@
     <file name="02.jpg" crc="494202888" seo="true" ref="lamborghini-gardens"/>
     <file name="03.jpg" crc="29060575" seo="true" ref="lamborghini-gardens"/>
   </folder>
-  <file name="europan-13.html" crc="3995875196" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="sola.html" crc="4050713923" seo="true" mt="1493234459129" redirect="true"/>
-  <file name="dallas.html" crc="3760199500" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="copenhagen.html" crc="223156113" seo="true" mt="1493234501878" redirect="true"/>
-  <file name="rheinfelden.html" crc="506729512" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="adidas.html" crc="4082315779" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="floating-passage.html" crc="84472374" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="weaving-architecture.html" crc="31302574" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="ola-pavilion.html" crc="15711145" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="world-health-organization.html" crc="536087316" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="inflatable-pavilion.html" crc="268603132" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="umbrella-facade.html" crc="346267456" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="zuzemberk-pavilion.html" crc="3758354856" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="taiwan-tower.html" crc="3759743121" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="evolo.html" crc="3795928437" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="about.html" crc="4062281907" seo="true" mt="1494973031091" redirect="true"/>
+  <file name="europan-13.html" crc="3834663693" seo="true" mt="1495225606634" redirect="true"/>
+  <file name="sola.html" crc="3799058394" seo="true" mt="1495225973553" redirect="true"/>
+  <file name="dallas.html" crc="350133006" seo="true" mt="1495226318885" redirect="true"/>
+  <file name="copenhagen.html" crc="4154249794" seo="true" mt="1495226212562" redirect="true"/>
+  <file name="rheinfelden.html" crc="340658644" seo="true" mt="1495226432373" redirect="true"/>
+  <file name="adidas.html" crc="4159819196" seo="true" mt="1495226530005" redirect="true"/>
+  <file name="floating-passage.html" crc="467911447" seo="true" mt="1495226581925" redirect="true"/>
+  <file name="weaving-architecture.html" crc="514741573" seo="true" mt="1495227410173" redirect="true"/>
+  <file name="ola-pavilion.html" crc="4252923218" seo="true" mt="1495228706755" redirect="true"/>
+  <file name="world-health-organization.html" crc="3965272976" seo="true" mt="1495227589798" redirect="true"/>
+  <file name="inflatable-pavilion.html" crc="129811414" seo="true" mt="1495227677425" redirect="true"/>
+  <file name="umbrella-facade.html" crc="4256274256" seo="true" mt="1495227928223" redirect="true"/>
+  <file name="zuzemberk-pavilion.html" crc="331788315" seo="true" mt="1495227773172" redirect="true"/>
+  <file name="taiwan-tower.html" crc="4112671091" seo="true" mt="1495227816302" redirect="true"/>
+  <file name="evolo.html" crc="4224811435" seo="true" mt="1495227887670" redirect="true"/>
+  <file name="about.html" crc="508271749" seo="true" mt="1495132748396" redirect="true"/>
   <file name="index.html" crc="3935396846" seo="true" mt="1493235154526" redirect="true"/>
-  <file name="lamborghini-gardens.html" crc="177893452" seo="true" mt="1494356695066" redirect="true"/>
-  <file name="cloud-market.html" crc="4037087649" seo="true" mt="1493233634115" redirect="true"/>
-  <file name="the-lanai.html" crc="84922724" seo="true" mt="1493233634115" redirect="true"/>
+  <file name="lamborghini-gardens.html" crc="4220427255" seo="true" mt="1495228762290" redirect="true"/>
+  <file name="cloud-market.html" crc="486711287" seo="true" mt="1495225859260" redirect="true"/>
+  <file name="the-lanai.html" crc="3940601612" seo="true" mt="1495228719826" redirect="true"/>
 </manifest>
