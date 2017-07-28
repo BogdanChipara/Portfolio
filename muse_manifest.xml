@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1495228780603">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1501281124514">
   <folder name="css">
     <file name="site_global.css" crc="411649291"/>
-    <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market"/>
-    <file name="master_homepage.css" crc="292311321" ref="index"/>
+    <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market:the-great-outdoors"/>
+    <file name="master_homepage.css" crc="4074851444" ref="index"/>
     <file name="about.css" crc="3897137461" ref="about"/>
     <file name="iefonts_about.css" crc="236644462" ref="about"/>
     <file name="umbrella-facade.css" crc="338509628" ref="umbrella-facade"/>
@@ -19,8 +19,8 @@
     <file name="iefonts_zuzemberk-pavilion.css" crc="166801320" ref="zuzemberk-pavilion"/>
     <file name="rheinfelden.css" crc="118015808" ref="rheinfelden"/>
     <file name="iefonts_rheinfelden.css" crc="3811118748" ref="rheinfelden"/>
-    <file name="the-lanai.css" crc="294360685" ref="the-lanai"/>
-    <file name="iefonts_the-lanai.css" crc="469461200" ref="the-lanai"/>
+    <file name="the-lanai.css" crc="483187066" ref="the-lanai"/>
+    <file name="iefonts_the-lanai.css" crc="59419780" ref="the-lanai"/>
     <file name="taiwan-tower.css" crc="275885143" ref="taiwan-tower"/>
     <file name="iefonts_taiwan-tower.css" crc="424582048" ref="taiwan-tower"/>
     <file name="sola.css" crc="4226154877" ref="sola"/>
@@ -37,24 +37,26 @@
     <file name="iefonts_lamborghini-gardens.css" crc="4014764902" ref="lamborghini-gardens"/>
     <file name="world-health-organization.css" crc="348317333" ref="world-health-organization"/>
     <file name="iefonts_world-health-organization.css" crc="4001523102" ref="world-health-organization"/>
-    <file name="index.css" crc="3951042302" ref="index"/>
+    <file name="index.css" crc="530104059" ref="index"/>
     <file name="iefonts_index.css" crc="3838111394" ref="index"/>
     <file name="floating-passage.css" crc="3959411895" ref="floating-passage"/>
     <file name="iefonts_floating-passage.css" crc="387486104" ref="floating-passage"/>
     <file name="cloud-market.css" crc="4171187104" ref="cloud-market"/>
     <file name="iefonts_cloud-market.css" crc="424694650" ref="cloud-market"/>
+    <file name="the-great-outdoors.css" crc="3791613441" ref="the-great-outdoors"/>
+    <file name="iefonts_the-great-outdoors.css" crc="165328477" ref="the-great-outdoors"/>
   </folder>
   <folder name="assets">
     <file name="the-cloud-market.pdf" crc="289682242" seo="true" mt="1479479339000"/>
     <file name="a3-elevation-1-350.pdf" crc="3957956512" seo="true" mt="1490822039000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="museutils.js" crc="163421577" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="whatinput.js" crc="86476730" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
-    <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="museutils.js" crc="163421577" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="whatinput.js" crc="86476730" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
   </folder>
   <folder name="images">
     <file name="cover2 - light.jpg" crc="4055961590" seo="true" ref="europan-13"/>
@@ -260,8 +262,29 @@
     <file name="01a-crop-u3288.jpg" crc="4116238668" ref="lamborghini-gardens"/>
     <file name="02.jpg" crc="494202888" seo="true" ref="lamborghini-gardens"/>
     <file name="03.jpg" crc="29060575" seo="true" ref="lamborghini-gardens"/>
+    <file name="thegreatoutdoors.jpg" crc="462629918" seo="true" ref="index"/>
+    <file name="2b-crop-u4627.jpg" crc="276136701" ref="the-great-outdoors"/>
+    <file name="top-view.svg" crc="386087949" seo="true" ref="the-great-outdoors"/>
+    <file name="top view_poster_.png" crc="8203444" ref="the-great-outdoors"/>
+    <file name="process2 16mb.gif" crc="4280267040" seo="true" ref="the-great-outdoors"/>
+    <file name="4a - shingles version - small size.jpg" crc="57982147" seo="true" ref="the-great-outdoors"/>
+    <file name="wood-shingles.svg" crc="4008273619" seo="true" ref="the-great-outdoors"/>
+    <file name="wood shingles_poster_.png" crc="117014087" ref="the-great-outdoors"/>
+    <file name="170723_render_0000.jpg" crc="4175099053" seo="true" ref="the-great-outdoors"/>
+    <file name="00-elevation-a3-1to100.svg" crc="4035273728" seo="true" ref="the-great-outdoors"/>
+    <file name="00 elevation a3 1to100_poster_.png" crc="4119830515" ref="the-great-outdoors"/>
+    <file name="01-plan-a3-1to100.svg" crc="3810072714" seo="true" ref="the-great-outdoors"/>
+    <file name="01 plan a3 1to100_poster_.png" crc="4000910727" ref="the-great-outdoors"/>
+    <file name="02-plan-roof-a3-1to100.svg" crc="60074703" seo="true" ref="the-great-outdoors"/>
+    <file name="02 plan roof a3 1to100_poster_.png" crc="140694064" ref="the-great-outdoors"/>
+    <file name="03-elevation-short-a3-1to100.svg" crc="71623999" seo="true" ref="the-great-outdoors"/>
+    <file name="03 elevation short a3 1to100_poster_.png" crc="4273010586" ref="the-great-outdoors"/>
+    <file name="170723_render_0001.jpg" crc="270889529" seo="true" ref="the-great-outdoors"/>
+    <file name="doubleprogram.gif" crc="4235499751" seo="true" ref="the-great-outdoors"/>
+    <file name="04-plan-double-a3-1to100.svg" crc="155884898" seo="true" ref="the-great-outdoors"/>
+    <file name="04 plan double a3 1to100_poster_.png" crc="4128780241" ref="the-great-outdoors"/>
   </folder>
-  <file name="europan-13.html" crc="3834663693" seo="true" mt="1495225606634" redirect="true"/>
+  <file name="europan-13.html" crc="3834663693" seo="true" mt="1501278176996" redirect="true"/>
   <file name="sola.html" crc="3799058394" seo="true" mt="1495225973553" redirect="true"/>
   <file name="dallas.html" crc="350133006" seo="true" mt="1495226318885" redirect="true"/>
   <file name="copenhagen.html" crc="4154249794" seo="true" mt="1495226212562" redirect="true"/>
@@ -277,8 +300,9 @@
   <file name="taiwan-tower.html" crc="4112671091" seo="true" mt="1495227816302" redirect="true"/>
   <file name="evolo.html" crc="4224811435" seo="true" mt="1495227887670" redirect="true"/>
   <file name="about.html" crc="508271749" seo="true" mt="1495132748396" redirect="true"/>
-  <file name="index.html" crc="3935396846" seo="true" mt="1493235154526" redirect="true"/>
-  <file name="lamborghini-gardens.html" crc="4220427255" seo="true" mt="1495228762290" redirect="true"/>
+  <file name="index.html" crc="209870346" seo="true" mt="1501280913201" redirect="true"/>
+  <file name="lamborghini-gardens.html" crc="4271068503" seo="true" mt="1501279275056" redirect="true"/>
   <file name="cloud-market.html" crc="486711287" seo="true" mt="1495225859260" redirect="true"/>
-  <file name="the-lanai.html" crc="3940601612" seo="true" mt="1495228719826" redirect="true"/>
+  <file name="the-lanai.html" crc="272271943" seo="true" mt="1501279065992" redirect="true"/>
+  <file name="the-great-outdoors.html" crc="4234050640" seo="true" mt="1501278936248" redirect="true"/>
 </manifest>
