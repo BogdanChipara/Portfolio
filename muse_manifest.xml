@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1501281124514">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bogdanchipara.com" resolutions="1x" timestamp="1507476965112">
   <folder name="css">
-    <file name="site_global.css" crc="411649291"/>
-    <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market:the-great-outdoors"/>
-    <file name="master_homepage.css" crc="4074851444" ref="index"/>
-    <file name="about.css" crc="3897137461" ref="about"/>
-    <file name="iefonts_about.css" crc="236644462" ref="about"/>
+    <file name="site_global.css" crc="4270108497"/>
+    <file name="master_a-master.css" crc="407601881" ref="about:umbrella-facade:inflatable-pavilion:copenhagen:weaving-architecture:europan-13:zuzemberk-pavilion:rheinfelden:the-lanai:taiwan-tower:sola:ola-pavilion:evolo:dallas:adidas:lamborghini-gardens:world-health-organization:floating-passage:cloud-market:the-great-outdoors:adelaide-community-hub"/>
+    <file name="master_homepage.css" crc="3997494044" ref="index"/>
+    <file name="about.css" crc="3937206753" ref="about"/>
+    <file name="iefonts_about.css" crc="367363847" ref="about"/>
     <file name="umbrella-facade.css" crc="338509628" ref="umbrella-facade"/>
     <file name="iefonts_umbrella-facade.css" crc="3961581017" ref="umbrella-facade"/>
     <file name="inflatable-pavilion.css" crc="3905584803" ref="inflatable-pavilion"/>
@@ -37,7 +37,7 @@
     <file name="iefonts_lamborghini-gardens.css" crc="4014764902" ref="lamborghini-gardens"/>
     <file name="world-health-organization.css" crc="348317333" ref="world-health-organization"/>
     <file name="iefonts_world-health-organization.css" crc="4001523102" ref="world-health-organization"/>
-    <file name="index.css" crc="530104059" ref="index"/>
+    <file name="index.css" crc="81464212" ref="index"/>
     <file name="iefonts_index.css" crc="3838111394" ref="index"/>
     <file name="floating-passage.css" crc="3959411895" ref="floating-passage"/>
     <file name="iefonts_floating-passage.css" crc="387486104" ref="floating-passage"/>
@@ -45,18 +45,21 @@
     <file name="iefonts_cloud-market.css" crc="424694650" ref="cloud-market"/>
     <file name="the-great-outdoors.css" crc="3791613441" ref="the-great-outdoors"/>
     <file name="iefonts_the-great-outdoors.css" crc="165328477" ref="the-great-outdoors"/>
+    <file name="adelaide-community-hub.css" crc="3953262631" ref="adelaide-community-hub"/>
+    <file name="iefonts_adelaide-community-hub.css" crc="129576658" ref="adelaide-community-hub"/>
   </folder>
   <folder name="assets">
     <file name="the-cloud-market.pdf" crc="289682242" seo="true" mt="1479479339000"/>
     <file name="a3-elevation-1-350.pdf" crc="3957956512" seo="true" mt="1490822039000"/>
+    <file name="taiwantower-white.pdf" crc="4141631050" seo="true" mt="1446117408000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
-    <file name="museutils.js" crc="163421577" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
-    <file name="whatinput.js" crc="86476730" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
-    <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
-    <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
-    <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
+    <file name="museutils.js" crc="163421577" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
+    <file name="whatinput.js" crc="86476730" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
+    <file name="museconfig.js" crc="36584860" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
+    <file name="jquery.watch.js" crc="104486786" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
+    <file name="require.js" crc="244322403" ref="europan-13:sola:dallas:copenhagen:rheinfelden:adidas:floating-passage:weaving-architecture:ola-pavilion:world-health-organization:inflatable-pavilion:umbrella-facade:zuzemberk-pavilion:taiwan-tower:evolo:about:index:lamborghini-gardens:cloud-market:the-lanai:the-great-outdoors:adelaide-community-hub"/>
   </folder>
   <folder name="images">
     <file name="cover2 - light.jpg" crc="4055961590" seo="true" ref="europan-13"/>
@@ -114,7 +117,7 @@
     <file name="p05-01 aa-crop-u964.jpg" crc="3981906405" ref="rheinfelden"/>
     <file name="masterplan2.jpg" crc="3813462462" seo="true" ref="rheinfelden"/>
     <file name="rs white.jpg" crc="188133651" seo="true" ref="rheinfelden"/>
-    <file name="section.jpg" crc="262514881" seo="true" ref="rheinfelden"/>
+    <file name="section.jpg" crc="3963223968" seo="true" ref="rheinfelden:taiwan-tower"/>
     <file name="schema 3d.jpg" crc="3867466919" seo="true" ref="rheinfelden"/>
     <file name="adidas wire-crop-u1022.jpg" crc="94605272" ref="adidas"/>
     <file name="adidas functions.jpg" crc="4189991000" seo="true" ref="adidas"/>
@@ -167,7 +170,7 @@
     <file name="fp.jpg" crc="3946753405" seo="true" ref="world-health-organization"/>
     <file name="fp2.jpg" crc="4217345049" seo="true" ref="world-health-organization"/>
     <file name="p02-01.jpg" crc="474078738" seo="true" ref="world-health-organization"/>
-    <file name="program distribution.jpg" crc="4088213236" seo="true" ref="world-health-organization"/>
+    <file name="program distribution.jpg" crc="331760750" seo="true" ref="world-health-organization:taiwan-tower"/>
     <file name="ext white.jpg" crc="480893679" seo="true" ref="world-health-organization"/>
     <file name="01 - crop.jpg" crc="4051960377" seo="true" ref="inflatable-pavilion"/>
     <file name="7176350820_a9ff2c68ab_o.jpg" crc="4242119472" seo="true" ref="inflatable-pavilion"/>
@@ -196,9 +199,7 @@
     <file name="21 - open source.jpg" crc="483018656" seo="true" ref="taiwan-tower"/>
     <file name="26 -workshop.jpg" crc="4080007786" seo="true" ref="taiwan-tower"/>
     <file name="night view.jpg" crc="3916314918" seo="true" ref="taiwan-tower"/>
-    <file name="section2.jpg" crc="3963223968" seo="true" ref="taiwan-tower"/>
     <file name="museum.jpg" crc="3918467452" seo="true" ref="taiwan-tower"/>
-    <file name="program distribution2.jpg" crc="331760750" seo="true" ref="taiwan-tower"/>
     <file name="museum section.jpg" crc="3942149551" seo="true" ref="taiwan-tower"/>
     <file name="central node.jpg" crc="57092" seo="true" ref="taiwan-tower"/>
     <file name="struct principles.jpg" crc="227643118" seo="true" ref="taiwan-tower"/>
@@ -283,8 +284,32 @@
     <file name="doubleprogram.gif" crc="4235499751" seo="true" ref="the-great-outdoors"/>
     <file name="04-plan-double-a3-1to100.svg" crc="155884898" seo="true" ref="the-great-outdoors"/>
     <file name="04 plan double a3 1to100_poster_.png" crc="4128780241" ref="the-great-outdoors"/>
+    <file name="adelaide.jpg" crc="4268359908" seo="true" ref="index"/>
+    <file name="170819_v5_to_render_0000-crop-u4943.jpg" crc="475535243" ref="adelaide-community-hub"/>
+    <file name="170825_long_corridor_0000.jpg" crc="4103502951" seo="true" ref="adelaide-community-hub"/>
+    <file name="site.svg" crc="400059340" seo="true" ref="adelaide-community-hub"/>
+    <file name="site_poster_.png" crc="90316033" ref="adelaide-community-hub"/>
+    <file name="elevation.svg" crc="427266402" seo="true" ref="adelaide-community-hub"/>
+    <file name="elevation_poster_.png" crc="4205827179" ref="adelaide-community-hub"/>
+    <file name="170824_steps_interior_0000.jpg" crc="4114673732" seo="true" ref="adelaide-community-hub"/>
+    <file name="170825__third_interior_view_0000.jpg" crc="3809607233" seo="true" ref="adelaide-community-hub"/>
+    <file name="170823__elevation_render_0000.jpg" crc="4294090419" seo="true" ref="adelaide-community-hub"/>
+    <file name="section-diagram.svg" crc="75434888" seo="true" ref="adelaide-community-hub"/>
+    <file name="section diagram_poster_.png" crc="155454448" ref="adelaide-community-hub"/>
+    <file name="01-street-level.svg" crc="59081815" seo="true" ref="adelaide-community-hub"/>
+    <file name="01 street level_poster_.png" crc="3967176742" ref="adelaide-community-hub"/>
+    <file name="02-level-2.svg" crc="3901379800" seo="true" ref="adelaide-community-hub"/>
+    <file name="02 level 2_poster_.png" crc="3850606418" ref="adelaide-community-hub"/>
+    <file name="03-level-3.svg" crc="3797892188" seo="true" ref="adelaide-community-hub"/>
+    <file name="03 level 3_poster_.png" crc="172460612" ref="adelaide-community-hub"/>
+    <file name="04-level-4.svg" crc="4169051144" seo="true" ref="adelaide-community-hub"/>
+    <file name="04 level 4_poster_.png" crc="317418570" ref="adelaide-community-hub"/>
+    <file name="05-level-5.svg" crc="232459826" seo="true" ref="adelaide-community-hub"/>
+    <file name="05 level 5_poster_.png" crc="3765272540" ref="adelaide-community-hub"/>
+    <file name="06-level-6.svg" crc="4120025713" seo="true" ref="adelaide-community-hub"/>
+    <file name="06 level 6_poster_.png" crc="267780361" ref="adelaide-community-hub"/>
   </folder>
-  <file name="europan-13.html" crc="3834663693" seo="true" mt="1501278176996" redirect="true"/>
+  <file name="europan-13.html" crc="4065444658" seo="true" mt="1507474166559" redirect="true"/>
   <file name="sola.html" crc="3799058394" seo="true" mt="1495225973553" redirect="true"/>
   <file name="dallas.html" crc="350133006" seo="true" mt="1495226318885" redirect="true"/>
   <file name="copenhagen.html" crc="4154249794" seo="true" mt="1495226212562" redirect="true"/>
@@ -297,12 +322,13 @@
   <file name="inflatable-pavilion.html" crc="129811414" seo="true" mt="1495227677425" redirect="true"/>
   <file name="umbrella-facade.html" crc="4256274256" seo="true" mt="1495227928223" redirect="true"/>
   <file name="zuzemberk-pavilion.html" crc="331788315" seo="true" mt="1495227773172" redirect="true"/>
-  <file name="taiwan-tower.html" crc="4112671091" seo="true" mt="1495227816302" redirect="true"/>
+  <file name="taiwan-tower.html" crc="330541376" seo="true" mt="1501341829814" redirect="true"/>
   <file name="evolo.html" crc="4224811435" seo="true" mt="1495227887670" redirect="true"/>
-  <file name="about.html" crc="508271749" seo="true" mt="1495132748396" redirect="true"/>
-  <file name="index.html" crc="209870346" seo="true" mt="1501280913201" redirect="true"/>
+  <file name="about.html" crc="4016922884" seo="true" mt="1507476816117" redirect="true"/>
+  <file name="index.html" crc="508685971" seo="true" mt="1507476028369" redirect="true"/>
   <file name="lamborghini-gardens.html" crc="4271068503" seo="true" mt="1501279275056" redirect="true"/>
   <file name="cloud-market.html" crc="486711287" seo="true" mt="1495225859260" redirect="true"/>
   <file name="the-lanai.html" crc="272271943" seo="true" mt="1501279065992" redirect="true"/>
   <file name="the-great-outdoors.html" crc="4234050640" seo="true" mt="1501278936248" redirect="true"/>
+  <file name="adelaide-community-hub.html" crc="360040595" seo="true" mt="1507474948370" redirect="true"/>
 </manifest>
