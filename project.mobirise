@@ -11590,10 +11590,10 @@
         }
       ]
     },
-    "page22.html": {
+    "about.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "About",
+        "title": "About Bogdan Chipara",
         "order": 1
       },
       "components": [
