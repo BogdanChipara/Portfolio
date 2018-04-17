@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-02_1324",
-    "currentPage": "index.html",
+    "currentPage": "Dallas.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,8 +27,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 412,
-    "versionPublish": "4.7.0",
+    "uniqCompNum": 413,
+    "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -6521,6 +6521,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/06-render-01-1400x700.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-bg"
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -7242,7 +7269,7 @@
             "bgColor": "#fff"
           },
           "title": "The Lānai",
-          "meta": "2107",
+          "meta": "2017",
           "_tags": [
             "Theme"
           ],
@@ -7610,7 +7637,7 @@
             "bgColor": "#fff"
           },
           "title": "Montesanto",
-          "meta": "2107",
+          "meta": "2017",
           "_tags": [
             "Theme"
           ],
