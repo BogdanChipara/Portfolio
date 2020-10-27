@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bogdan Chipara Architecture Portfolio 2020",
-    "currentPage": "About.html",
+    "currentPage": "Echo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 385,
+    "uniqCompNum": 401,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/201027bc-logo-ordinal-indicator-smaller-128x128.png",
@@ -676,7 +676,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "The Lanai",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -1460,7 +1460,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "The Great Outdoors",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -2542,7 +2542,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Montesanto",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -3390,7 +3390,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Adelaide Hub",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -4254,7 +4254,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Lamborghini Inner Gradens",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -5294,7 +5294,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Dallas, Connected City",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -6307,7 +6307,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Copenhagen Waterfront Library",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -7269,7 +7269,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Extroverted Klostergarden",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -8777,7 +8777,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Cloud Market",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -9691,7 +9691,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sola Town Hall",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -10737,7 +10737,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Floating Passage",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -11597,7 +11597,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Weaving Architecture",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -13331,7 +13331,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Rheinfelden Bridge",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -14035,7 +14035,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Adidas World Of Sports",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -14895,7 +14895,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "World Health Organization",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -15689,7 +15689,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Umbrella Facade",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -16399,7 +16399,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Ola Pavilion",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -17301,7 +17301,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Inflatable Pavilion",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -18074,7 +18074,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Zužemberk Pavilion",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -18986,7 +18986,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Taiwan Tower",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -19984,7 +19984,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "High Lung",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -20697,7 +20697,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Echo",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -20714,7 +20714,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Echo, TU Delft</b><br><a href=\"https://www.unstudio.com/en/page/13592/echo-tu-delft\">Designed togheter with UNStudio, Amsterdam, 2017</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Echo, TU Delft</b><br><a href=\"https://www.unstudio.com/en/page/13592/echo-tu-delft\">Designed together with UNStudio, Amsterdam, 2017</a></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-9p",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -21611,7 +21611,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>The Challenge Museum</b><br><a href=\"https://www.unstudio.com/en/page/11734/the-challenge-museum\">Designed togheter with UNStudio, Amsterdam, 2018</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>The Challenge Museum</b><br><a href=\"https://www.unstudio.com/en/page/11734/the-challenge-museum\">Designed together with UNStudio, Amsterdam, 2018</a></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-a4",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
