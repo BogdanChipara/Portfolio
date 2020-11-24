@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bogdan Chipara Architecture Portfolio 2020",
-    "currentPage": "Echo.html",
+    "currentPage": "Challenge Museum.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20711,6 +20711,9 @@
             },
             ".mbr-text P": {
               "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#232323"
             }
           },
           "_name": "content1",
@@ -21608,6 +21611,9 @@
             },
             ".mbr-text P": {
               "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#232323"
             }
           },
           "_name": "content1",
