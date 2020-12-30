@@ -22993,7 +22993,7 @@
     },
     "programdistrib.html": {
       "settings": {
-        "meta_descr": "Study of mass an program distribution using parametric design.",
+        "meta_descr": "Study of mass an program distribution using parametric design. Different scenarios.",
         "title": "Program distribution toolkit",
         "order": 3
       },
